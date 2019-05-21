@@ -4,6 +4,10 @@ body {
   line-height: 34px;
   color: #777777;
   background: url("../images/concrete_seamless.png");
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
 }
 
 * {
@@ -227,7 +231,6 @@ input[type=submit] {
 
   }
   .main-section { 
-    height: 900px;
     width: 650px;
     box-sizing: border-box;
     padding-top: 25px;
@@ -270,7 +273,6 @@ input[type=submit] {
   margin-left: 45px;
   margin-bottom: 200px;
   width: 550px;
-  height: 1052px;
   }
 
   #masthead{
